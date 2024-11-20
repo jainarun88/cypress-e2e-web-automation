@@ -1,0 +1,15 @@
+{
+  "name": "cypress-e2e-web-automation",
+  "version": "1.0.0",
+  "description": "This is a Cypress based web automation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun J",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.16.0",
+    "cypress-e2e-web-automation": "file:"
+  }
+}
